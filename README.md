@@ -2,7 +2,7 @@
 
 ### Windows
 
-[⬇️ Download Wi-Fi File Share](https://github.com/prasannagunasekara/WiFi-File-Share/archive/refs/heads/main.zip)
+[⬇️ Download Wi-Fi File Share](https://github.com/PrasannaGunasekara/Wifi_Share_Application/blob/main/wifi_file_share_v2.zip)
 
 1. Download the ZIP file.
 2. Extract the ZIP.
