@@ -1,22 +1,11 @@
-In this program:
+## 📥 Download
 
-- Phone to Windows file transfer over local Wi-Fi
-- 6-digit temporary PIN protection
-- QR code connection
-- Multiple-file upload
-- Upload progress and live transfer speed
-- Search
-- Download
-- Delete with confirmation
-- Automatic LAN IP detection
-- Dark mode support
-- Duplicate filename protection
+### Windows
 
-## Easiest Windows start
+[⬇️ Download Wi-Fi File Share](https://github.com/prasannagunasekara/WiFi-File-Share/archive/refs/heads/main.zip)
 
-Double-click:
-
-```text
-START_WIFI_SHARE.bat
-```
-In the beginning only, this needs Internet connection to download the needed libraries.
+1. Download the ZIP file.
+2. Extract the ZIP.
+3. Double-click `START_WIFI_SHARE.bat`.
+4. On the first run, an Internet connection is required to install the necessary Python libraries.
+5. After setup, the file-sharing system works over your local Wi-Fi network.
